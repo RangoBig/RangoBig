@@ -4,7 +4,6 @@
 **RangoBig/RangoBig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<img align="right" alt="GIF" src="https://github.com/RangoBig/RangoBig/blob/main/463159.png" />
 
 - 💬 一名90后,热爱动漫,烹饪美食,热爱专研技术
 - ⚡ 我的社区主页:
