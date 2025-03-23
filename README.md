@@ -49,25 +49,5 @@ journey
     section 2023
       NestJS架构: 8: 贡献者
       性能优化: 7: 研究者
-```
+
 ![Github Activity](https://ghchart.rshah.org/yourname)
-
-<!-- 在README末尾插入 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-XXXXXX');
-</script>
-
-
-<script>
-  var _hmt = _hmt || [];
-  (function() {
-    var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?xxxxxxxx";
-    var s = document.getElementsByTagName("script")[0]; 
-    s.parentNode.insertBefore(hm, s);
-  })();
-</script>
